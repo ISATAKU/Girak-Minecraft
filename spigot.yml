@@ -75,7 +75,7 @@ world-settings:
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     end-portal-sound-radius: 0
-    mob-spawn-range: 8
+    mob-spawn-range: 7
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     entity-activation-range:
